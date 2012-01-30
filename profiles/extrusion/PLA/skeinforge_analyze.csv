@@ -3,9 +3,9 @@ _Name                          	Value
 WindowPosition	600+0
 Open File for Analyze	
 clairvoyance	False
-comment	True
+comment	False
 interpret	False
-skeiniso	False
+skeiniso	True
 skeinlayer	False
 statistic	False
 synopsis	False
