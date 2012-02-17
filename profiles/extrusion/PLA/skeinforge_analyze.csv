@@ -4,8 +4,8 @@ WindowPosition	600+0
 Open File for Analyze	
 clairvoyance	False
 comment	False
-interpret	False
-skeiniso	True
+interpret	True
+skeiniso	False
 skeinlayer	False
 statistic	False
 synopsis	False
